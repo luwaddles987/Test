@@ -15,3 +15,6 @@ During the class, I have learned about differnet infinities.
 Integer.MAX_VALUE
 Double.MAX_VALUE + 1
 ```
+
+**NOTE**
+* Use *JSHELL* to experiment with Java
